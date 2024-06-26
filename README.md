@@ -11,8 +11,6 @@ Description...
 |   ├── shapes.js
 |   ├── shapes.test.js
 |   └── more...
-├── LICENSE.md
-├── README.md
 ├── index.js
 └── package.json         
 ```

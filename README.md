@@ -11,10 +11,10 @@ Description...
 |   ├── shapes.js
 |   ├── shapes.test.js
 |   └── more...
-├── index.js
-├── package.json
 ├── LICENSE.md
-└── README.md           
+├── README.md
+├── index.js
+└── package.json         
 ```
 
 ### License

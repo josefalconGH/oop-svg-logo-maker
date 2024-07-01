@@ -30,6 +30,7 @@ MIT License
 ## Mock-up
 
 ### Demo
+You can view a demo of the application [here](https://drive.google.com/file/d/1SevYVJE9TDM3iDLct9qwQWbA56blyVoY/view?usp=sharing).
 
 ## Learning Outcomes
 
